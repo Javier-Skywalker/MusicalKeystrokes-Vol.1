@@ -1,4 +1,4 @@
-# MusicalKeystrokes-Vol.1
+
 
 
 
@@ -29,7 +29,7 @@ Unfeeling so rapturous discovery he exquisite. Reasonably so middletons or impre
 <div id="textboxdiv">
 	<div id="textboxcaption"> Click the box and begin typing the paragraph on the left.</div>
 	
-	<textarea rows="40" cols="60" id="textbox"></textarea>
+	<textarea rows="40" cols="100" id="textbox"></textarea>
 	
 </div>
 </body>
