@@ -1,7 +1,7 @@
 # MusicalKeystrokes-Vol.1
 
 
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -29,7 +29,7 @@ Unfeeling so rapturous discovery he exquisite. Reasonably so middletons or impre
 <div id="textboxdiv">
 	<div id="textboxcaption"> Click the box and begin typing the paragraph on the left.</div>
 	
-	<textarea rows="10" cols="26" id="textbox"></textarea>
+	<textarea rows="40" cols="60" id="textbox"></textarea>
 	
 </div>
 </body>
