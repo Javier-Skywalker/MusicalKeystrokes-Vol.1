@@ -30,7 +30,7 @@ Unfeeling so rapturous discovery he exquisite. Reasonably so middletons or impre
 <div id="textboxdiv">
 	<div id="textboxcaption"> Click the box and begin typing the paragraph on the left.</div>
 	
-	<textarea rows="40" cols="110" id="textbox"></textarea>
+	<textarea rows="40" cols="120" id="textbox"></textarea>
 	
 </div>
 </body>
