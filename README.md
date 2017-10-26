@@ -14,11 +14,7 @@
 
 <html>
 <head>
-<button onclick="myFunction()">Click Me</button>
 
-<div id="myDIV">
-  This is my DIV element.
-</div>
 <script type="text/javascript" src="./keystroke.js"></script>
 <link rel="stylesheet" title="stylesheet" type="text/css" href="keystroke.css" media="all" />
 </head>
@@ -39,14 +35,8 @@
 </html>
 
     </div>
-    function myFunction() {
-    var x = document.getElementById("myDIV");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
+    
+
     
     <script src="/keystrokepractice/assets/javascript/anchor-js/anchor.min.js"></script>
     <script>anchors.add();</script>
